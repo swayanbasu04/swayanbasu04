@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋 versue, it's Nobi</h1>
 <h3 align="center">learning web with a philosophy of "Powered by Laziness" </h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Networking**
 
 <h3 align="left">Join me, versue;</h3>
 <p align="left">
