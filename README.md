@@ -48,7 +48,9 @@
 ---
 
 ## 🔗 Connect
-- TryHackMe: [your profile link]
+- TryHackMe: [ochairo]([https://tryhackme.com/p/ochairo)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ochairo.png)](https://tryhackme.com/p/ochairo)
+
 
 ## 💡 Quick Tip
 "Always audit your auth logs; failed logins tell a story."
