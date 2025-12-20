@@ -48,7 +48,6 @@
 ---
 
 ## 🔗 Connect
-- TryHackMe: [ochairo]([https://tryhackme.com/p/ochairo)
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ochairo.png)](https://tryhackme.com/p/ochairo)
 
 
