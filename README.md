@@ -5,19 +5,11 @@
 ---
 
 ## 🌱 Now
-- Completing **Advent of Cyber 2025** on TryHackMe
+- Completeing cybersecurity analyst track
 - Daily TryHackMe rooms; strengthening networking and SOC1
 
-
-## 🚀 Next
-- Complete X TryHackMe rooms/month
-- Learn SIEM basics (Elastic/Splunk), build a mini auth-log parser
-- Add alert thresholds/reports for failed SSH attempts
-
 ## 🎯 Recent wins
-- Shipped a password generator (CLI)
-- Built a simple calculator and a GUI calculator
-- Practiced SIEM + auditing on a Linux box
+- upgrading Instant_lab project
 
 ---
 
@@ -43,7 +35,7 @@
 - **Password generator**: CLI tool for secure password generation
 - **Simple calculator**: Basic arithmetic operations
 - **GUI calculator**: Tkinter-based calculator interface
-- **Security labs** (in progress): Scripts and notes from TryHackMe + networking practice
+- **Instant_lab** (in progress): Instant ways to launch cybersecurity essentials kit with docker
 
 ---
 
@@ -55,7 +47,8 @@
 "Always audit your auth logs; failed logins tell a story."
 
 ## 🔥 Current focus
-- Committing daily to security labs and TryHackMe progress tracking
+- Improving instant_lab project and TryHackMe progress tracking
+
 
 ---
 
