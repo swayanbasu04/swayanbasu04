@@ -1,5 +1,5 @@
-<h1 align="center"><h1 align="center">Hey 👋 versue, it's Nobi</h1>
-<h3 align="center">learning web + cybersecurity with "Powered by Laziness"</h3>
+<h1 align="center"><h1 align="center">Hey 👋 versue, swayan here </h1>
+<h3 align="center">learning web + cybersecurity skills </h3>
 <p align="center">BCA student | SOC analyst track | TryHackMe practitioner</p>
 
 ---
