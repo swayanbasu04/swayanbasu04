@@ -5,11 +5,12 @@
 ---
 
 ## 🌱 Now
-- Completeing cybersecurity analyst track
+- Completing cybersecurity analyst track
 - Daily TryHackMe rooms; strengthening networking and SOC1
 
 ## 🎯 Recent wins
 - upgrading Instant_lab project
+- completed junior cybersecurity analyst path
 
 ---
 
