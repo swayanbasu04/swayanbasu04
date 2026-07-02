@@ -1,35 +1,34 @@
-# Hey 👋 Swayan here
+# Hey there, I'm Swayan! 👋
 
-<h3 align="center">Learning cybersecurity</h3>
-<p align="center">BCA student | SOC Analyst Track | TryHackMe Practitioner</p>
+I'm aspiring **Security Analyst**, driven by a philosophy of "Powered by Automation." I enjoy exploring cybersecurity, automating manual processes, and building practical tools to make a difference in the field.
 
-## 🌱 Now
-
-## 🎯 Recent wins
-- 🏆 **Top 5% on TryHackMe**
 ---
 
-## 🛠️ Languages and Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🛡️ Cybersecurity Journey
+*   **Track:** SOC Analyst
+*   **Practitioner:** Active learner on TryHackMe
+*   **Recent Wins:** Top 5% on TryHackMe 🏆
 
-## 💼 Projects
-- **Password generator**: CLI tool for secure password generation
-- **Simple calculator**: Basic arithmetic operations
-- **GUI calculator**: Tkinter-based calculator interface
-- **Instant_lab** (in progress): Instant ways to launch cybersecurity essentials kit with docker
+---
 
+## 🛠️ Featured Projects
+Check out some of my work:
 
-## 🔗 Connect
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ochairo.png)](https://tryhackme.com/p/ochairo)
+*   **[Instant_lab](https://github.com/swayanbasu04/Instant_lab):** An instant homelab with a containerized environment for cybersecurity testing. Deploy Kali, Parrot, DVWA, Juice Shop, soc tools and ELK stack in minutes using Docker. 🐳
+*   **[Security Scripting Lab](https://github.com/swayanbasu04/security-scripting-lab):** Cybersecurity practice tasks completed during my internship at Prodigy Infotech.
+*   **[Passgen](https://github.com/swayanbasu04/passgen):** A simple, easy-to-use CLI tool for secure password generation.
 
+---
 
-## 💡 Quick Tip
+## 🚀 Current Focus
+*   **Challenge:** 90-day streak challenge 🔥
+*   **Goal:** Automating the "boring" parts of SOC practice.
 
-## 🔥 Current focus
-🔥 90-day streak challenge 
+---
 
-<p align="center">Automating the boring parts of SOC practice</p>
+## 🔗 Connect With Me
+*   **TryHackMe:** [Profile](https://tryhackme.com/p/ochairo)
+*   **LinkedIn:** [Connect](https://www.linkedin.com/in/swayanbasu76)
+
+---
+ *“Powered by automation.”*
