@@ -1,11 +1,10 @@
 # Hey there, I'm Swayan! 👋
 
-I'm aspiring **Security Analyst**, driven by a philosophy of "Powered by Automation." I enjoy exploring cybersecurity, automating manual processes, and building practical tools to make a difference in the field.
+I'm an **Aspiring Cybersecurity Enthusiast**, driven by a philosophy of "Powered by Automation." I enjoy exploring cybersecurity, automating manual processes, and building practical tools to make a difference in the field.
 
 ---
 
 ## 🛡️ Cybersecurity Journey
-*   **Track:** SOC Analyst
 *   **Practitioner:** Active learner on TryHackMe
 *   **Recent Wins:** Top 5% on TryHackMe 🏆
 
@@ -22,7 +21,7 @@ Check out some of my work:
 
 ## 🚀 Current Focus
 *   **Challenge:** 90-day streak challenge 🔥
-*   **Goal:** Automating the "boring" parts of SOC practice.
+*   **Goal:** Automating the "boring" parts of Security practice.
 
 ---
 
